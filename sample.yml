@@ -1,0 +1,1132 @@
+items:
+  back:
+    amount: 1
+    display_name: "&6Zp\xC4\u203At"
+    left_click_commands:
+    - '[player] asc'
+    lore: null
+    material: PAPER
+    right_click_commands:
+    - ''
+    slot: 58
+  cobble128:
+    amount: 1
+    display_name: '&f128 &cCobblestone'
+    left_click_commands:
+    - '[player] c complete cobble128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Cobblestone"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,200'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-91
+    right_click_commands:
+    - ''
+    slot: 31
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.cobble.128%'
+          output: 'no'
+          type: string equals ignorecase
+  cobble128c:
+    amount: 1
+    display_name: '&f128 &aCobblestone'
+    left_click_commands:
+    - '[player] c complete cobble128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Cobblestone"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,200'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-91
+    right_click_commands:
+    - ''
+    slot: 31
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.cobble.128%'
+          output: 'yes'
+          type: string equals ignorecase
+  cobble256:
+    amount: 1
+    display_name: '&f256 &cCobblestone'
+    left_click_commands:
+    - '[player] c complete cobble256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Cobblestone"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,700'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-91
+    right_click_commands:
+    - ''
+    slot: 32
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.cobble.256%'
+          output: 'no'
+          type: string equals ignorecase
+  cobble256c:
+    amount: 1
+    display_name: '&f256 &aCobblestone'
+    left_click_commands:
+    - '[player] c complete cobble256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Cobblestone"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,700'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-91
+    right_click_commands:
+    - ''
+    slot: 32
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.cobble.256%'
+          output: 'yes'
+          type: string equals ignorecase
+  cobble64:
+    amount: 1
+    display_name: '&f64 &cCobblestone'
+    left_click_commands:
+    - '[player] c complete cobble64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Cobblestone"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$900'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-91
+    right_click_commands:
+    - ''
+    slot: 30
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.cobble.64%'
+          output: 'no'
+          type: string equals ignorecase
+  cobble64c:
+    amount: 1
+    display_name: '&f64 &aCobblestone'
+    left_click_commands:
+    - '[player] c complete cobble64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Cobblestone"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$900'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-91
+    right_click_commands:
+    - ''
+    slot: 30
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.cobble.64%'
+          output: 'yes'
+          type: string equals ignorecase
+  deco1:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 53
+  deco2:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 52
+  deco3:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 51
+  deco4:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 50
+  deco5:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 49
+  deco6:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 48
+  deco7:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 47
+  deco8:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 46
+  deco9:
+    amount: 1
+    data: 15
+    display_name: '&7 '
+    left_click_commands:
+    - ''
+    lore: []
+    material: 160
+    right_click_commands:
+    - ''
+    slot: 45
+  dirt128:
+    amount: 1
+    display_name: '&f128 &cDirt'
+    left_click_commands:
+    - '[player] c complete dirt128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Dirt "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,260'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-764
+    right_click_commands:
+    - ''
+    slot: 23
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.dirt.128%'
+          output: 'no'
+          type: string equals ignorecase
+  dirt128c:
+    amount: 1
+    display_name: '&f128 &aDirt'
+    left_click_commands:
+    - '[player] c complete dirt128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Dirt "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,260'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-764
+    right_click_commands:
+    - ''
+    slot: 23
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.dirt.128%'
+          output: 'yes'
+          type: string equals ignorecase
+  dirt256:
+    amount: 1
+    display_name: '&f256 &cDirt'
+    left_click_commands:
+    - '[player] c complete dirt256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Dirt "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,820'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-764
+    right_click_commands:
+    - ''
+    slot: 24
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.dirt.256%'
+          output: 'no'
+          type: string equals ignorecase
+  dirt256c:
+    amount: 1
+    display_name: '&f256 &aDirt'
+    left_click_commands:
+    - '[player] c complete dirt256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Dirt "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,820'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-764
+    right_click_commands:
+    - ''
+    slot: 24
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.dirt.256%'
+          output: 'yes'
+          type: string equals ignorecase
+  dirt64:
+    amount: 1
+    display_name: '&f64 &cDirt'
+    left_click_commands:
+    - '[player] c complete dirt64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Dirt "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$980'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-764
+    right_click_commands:
+    - ''
+    slot: 22
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.dirt.64%'
+          output: 'no'
+          type: string equals ignorecase
+  dirt64c:
+    amount: 1
+    display_name: '&f64 &aDirt'
+    left_click_commands:
+    - '[player] c complete dirt64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Dirt "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$980'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-764
+    right_click_commands:
+    - ''
+    slot: 22
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.dirt.64%'
+          output: 'yes'
+          type: string equals ignorecase
+  enxt:
+    amount: 1
+    display_name: "&eDal\u0139\u02C7\u0102\xAD strana ->"
+    left_click_commands:
+    - '[player] cbloky2'
+    lore: null
+    material: ARROW
+    right_click_commands:
+    - ''
+    slot: 59
+  goldblock128:
+    amount: 1
+    display_name: '&f128 &cGold Block'
+    left_click_commands:
+    - '[player] c complete goldblock128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Gold Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$12,800'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-98
+    right_click_commands:
+    - ''
+    slot: 42
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.goldblock.128%'
+          output: 'no'
+          type: string equals ignorecase
+  goldblock128c:
+    amount: 1
+    display_name: '&f128 &aGold Block'
+    left_click_commands:
+    - '[player] c complete goldblock128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Gold Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$12,800'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-98
+    right_click_commands:
+    - ''
+    slot: 42
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.goldblock.128%'
+          output: 'yes'
+          type: string equals ignorecase
+  goldblock256:
+    amount: 1
+    display_name: '&f256 &cGold Block'
+    left_click_commands:
+    - '[player] c complete goldblock256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Gold Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$25,600'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-98
+    right_click_commands:
+    - ''
+    slot: 43
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.goldblock.256%'
+          output: 'no'
+          type: string equals ignorecase
+  goldblock256c:
+    amount: 1
+    display_name: '&f256 &aGold Block'
+    left_click_commands:
+    - '[player] c complete goldblock256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Gold Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$25,600'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-98
+    right_click_commands:
+    - ''
+    slot: 43
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.goldblock.256%'
+          output: 'yes'
+          type: string equals ignorecase
+  goldblock64:
+    amount: 1
+    display_name: '&f64 &cGold Block'
+    left_click_commands:
+    - '[player] c complete goldblock64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Gold Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$6,400'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-98
+    right_click_commands:
+    - ''
+    slot: 41
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.goldblock.64%'
+          output: 'no'
+          type: string equals ignorecase
+  goldblock64c:
+    amount: 1
+    display_name: '&f64 &aGold Block'
+    left_click_commands:
+    - '[player] c complete goldblock64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Gold Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$6,400'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-98
+    right_click_commands:
+    - ''
+    slot: 41
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.goldblock.64%'
+          output: 'yes'
+          type: string equals ignorecase
+  grass128:
+    amount: 1
+    display_name: '&f128 &cGrass'
+    left_click_commands:
+    - '[player] c complete grass128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Grass "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,560'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-102
+    right_click_commands:
+    - ''
+    slot: 20
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.grass.128%'
+          output: 'no'
+          type: string equals ignorecase
+  grass128c:
+    amount: 1
+    display_name: '&f128 &aGrass'
+    left_click_commands:
+    - '[player] c complete grass128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Grass "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,560'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-102
+    right_click_commands:
+    - ''
+    slot: 20
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.grass.128%'
+          output: 'yes'
+          type: string equals ignorecase
+  grass256:
+    amount: 1
+    display_name: '&f256 &cGrass'
+    left_click_commands:
+    - '[player] c complete grass256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Grass "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$5,120'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-102
+    right_click_commands:
+    - ''
+    slot: 21
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.grass.256%'
+          output: 'no'
+          type: string equals ignorecase
+  grass256c:
+    amount: 1
+    display_name: '&f256 &aGrass'
+    left_click_commands:
+    - '[player] c complete grass256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Grass "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$5,120'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-102
+    right_click_commands:
+    - ''
+    slot: 21
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.grass.256%'
+          output: 'yes'
+          type: string equals ignorecase
+  grass64:
+    amount: 1
+    display_name: '&f64 &cGrass'
+    left_click_commands:
+    - '[player] c complete grass64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Grass "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$1,280'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-102
+    right_click_commands:
+    - ''
+    slot: 19
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.grass.64%'
+          output: 'no'
+          type: string equals ignorecase
+  grass64c:
+    amount: 1
+    display_name: '&f64 &aGrass'
+    left_click_commands:
+    - '[player] c complete grass64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Grass "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$1,280'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-102
+    right_click_commands:
+    - ''
+    slot: 19
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.grass.64%'
+          output: 'yes'
+          type: string equals ignorecase
+  ironblock128:
+    amount: 1
+    display_name: '&f128 &cIron Block'
+    left_click_commands:
+    - '[player] c complete ironblock128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Iron Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$5,120'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-99
+    right_click_commands:
+    - ''
+    slot: 39
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.ironblock.128%'
+          output: 'no'
+          type: string equals ignorecase
+  ironblock128c:
+    amount: 1
+    display_name: '&f128 &aIron Block'
+    left_click_commands:
+    - '[player] c complete ironblock128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Iron Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$5,120'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-99
+    right_click_commands:
+    - ''
+    slot: 39
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.ironblock.128%'
+          output: 'yes'
+          type: string equals ignorecase
+  ironblock256:
+    amount: 1
+    display_name: '&f256 &cIron Block'
+    left_click_commands:
+    - '[player] c complete ironblock256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Iron Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$10,480'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-99
+    right_click_commands:
+    - ''
+    slot: 40
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.ironblock.256%'
+          output: 'no'
+          type: string equals ignorecase
+  ironblock256c:
+    amount: 1
+    display_name: '&f256 &aIron Block'
+    left_click_commands:
+    - '[player] c complete ironblock256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Iron Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$10,480'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-99
+    right_click_commands:
+    - ''
+    slot: 40
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.ironblock.256%'
+          output: 'yes'
+          type: string equals ignorecase
+  ironblock64:
+    amount: 1
+    display_name: '&f64 &cIron Block'
+    left_click_commands:
+    - '[player] c complete ironblock64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Iron Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,560'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-99
+    right_click_commands:
+    - ''
+    slot: 38
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.ironblock.64%'
+          output: 'no'
+          type: string equals ignorecase
+  ironblock64c:
+    amount: 1
+    display_name: '&f64 &aIron Block'
+    left_click_commands:
+    - '[player] c complete ironblock64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Iron Block"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,560'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-99
+    right_click_commands:
+    - ''
+    slot: 38
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.ironblock.64%'
+          output: 'yes'
+          type: string equals ignorecase
+  log128:
+    amount: 1
+    display_name: '&f128 &cOak Wood'
+    left_click_commands:
+    - '[player] c complete log128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Oak Wood"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,200'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-1655
+    right_click_commands:
+    - ''
+    slot: 34
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.log.128%'
+          output: 'no'
+          type: string equals ignorecase
+  log128c:
+    amount: 1
+    display_name: '&f128 &aOak Wood'
+    left_click_commands:
+    - '[player] c complete log128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Oak Wood"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,200'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-1655
+    right_click_commands:
+    - ''
+    slot: 34
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.log.128%'
+          output: 'yes'
+          type: string equals ignorecase
+  log256:
+    amount: 1
+    display_name: '&f256 &cOak Wood'
+    left_click_commands:
+    - '[player] c complete log256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Oak Wood"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,700'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-1655
+    right_click_commands:
+    - ''
+    slot: 37
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.log.256%'
+          output: 'no'
+          type: string equals ignorecase
+  log256c:
+    amount: 1
+    display_name: '&f256 &aOak Wood'
+    left_click_commands:
+    - '[player] c complete log256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Oak Wood"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,700'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-1655
+    right_click_commands:
+    - ''
+    slot: 37
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.log.256%'
+          output: 'yes'
+          type: string equals ignorecase
+  log64:
+    amount: 1
+    display_name: '&f64 &cOak Wood'
+    left_click_commands:
+    - '[player] c complete log64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Oak Wood"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$900'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-1655
+    right_click_commands:
+    - ''
+    slot: 33
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.log.64%'
+          output: 'no'
+          type: string equals ignorecase
+  log64c:
+    amount: 1
+    display_name: '&f64 &aOak Wood'
+    left_click_commands:
+    - '[player] c complete log64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Oak Wood"
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$900'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-1655
+    right_click_commands:
+    - ''
+    slot: 33
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.log.64%'
+          output: 'yes'
+          type: string equals ignorecase
+  sand128:
+    amount: 1
+    display_name: '&f128 &cSand'
+    left_click_commands:
+    - '[player] c complete sand128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Sand "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,060'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-7116
+    right_click_commands:
+    - ''
+    slot: 28
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.sand.128%'
+          output: 'no'
+          type: string equals ignorecase
+  sand128c:
+    amount: 1
+    display_name: '&f128 &aSand'
+    left_click_commands:
+    - '[player] c complete sand128'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 128 Sand "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$2,060'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-7116
+    right_click_commands:
+    - ''
+    slot: 28
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.sand.128%'
+          output: 'yes'
+          type: string equals ignorecase
+  sand256:
+    amount: 1
+    display_name: '&f256 &cSand'
+    left_click_commands:
+    - '[player] c complete sand256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Sand "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,620'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-7116
+    right_click_commands:
+    - ''
+    slot: 29
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.sand.256%'
+          output: 'no'
+          type: string equals ignorecase
+  sand256c:
+    amount: 1
+    display_name: '&f256 &aSand'
+    left_click_commands:
+    - '[player] c complete sand256'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 256 Sand "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$4,620'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-7116
+    right_click_commands:
+    - ''
+    slot: 29
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.sand.256%'
+          output: 'yes'
+          type: string equals ignorecase
+  sand64:
+    amount: 1
+    display_name: '&f64 &cSand'
+    left_click_commands:
+    - '[player] c complete sand64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Sand "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$780'
+    - ''
+    - '&c&lNEDOKONCENO'
+    material: hdb-7116
+    right_click_commands:
+    - ''
+    slot: 25
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.sand.64%'
+          output: 'no'
+          type: string equals ignorecase
+  sand64c:
+    amount: 1
+    display_name: '&f64 &aSand'
+    left_click_commands:
+    - '[player] c complete sand64'
+    lore:
+    - ''
+    - '  &e&lQUEST'
+    - "  &6&l* &fZ\u0102\xADskej 64 Sand "
+    - ''
+    - '  &e&lODMENA'
+    - '  &6&l* &f$780'
+    - ''
+    - '&a&lDOKONCENO'
+    material: hdb-7116
+    right_click_commands:
+    - ''
+    slot: 25
+    view_requirement:
+      requirements:
+        has_noAccess_perm:
+          input: '%player_has_permission_island.sand.64%'
+          output: 'yes'
+          type: string equals ignorecase
+menu_title: '&lBLOKY QUEST #1'
+open_command:
+- cbloky
+size: 54
